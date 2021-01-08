@@ -1,4 +1,4 @@
 # jogoDaCobrinha
 
-**Projeto pessoal com JavaScript**
+:snake: **Projeto pessoal com JavaScript**
 
